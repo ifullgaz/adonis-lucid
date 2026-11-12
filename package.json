@@ -1,7 +1,7 @@
 {
   "name": "@ifullgaz/adonis-lucid",
   "description": "AdonisJS Lucid addons",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "engines": {
     "node": ">=24.0.0"
   },
